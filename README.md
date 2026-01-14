@@ -8,7 +8,7 @@ This design choice enables **more informative diagnostics** and improves reliabi
 
 ---
 
-## 📚 Defined Occlusion Classes
+## 🚗 Defined Occlusion Classes
 
 - **🟢 Normal**  
   Represents a clear and unobstructed camera view under nominal operating conditions.  
